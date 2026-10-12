@@ -1,0 +1,14 @@
+{
+  "name": "my-wa-bot",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@silent-tech-offc/ttdl": "^1.0.0",
+    "@whiskeysockets/baileys": "^6.7.0",
+    "baileys-antiban": "^3.8.9",
+    "dotenv": "^16.4.0",
+    "pino": "^9.0.0"
+  }
+}
